@@ -63,5 +63,6 @@ body {
 }
 
 #imgBox.show-img {
-    
+    max-height: 300px;
+    margin: 10px auto;
 }
