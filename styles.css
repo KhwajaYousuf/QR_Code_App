@@ -72,3 +72,7 @@ body {
 .error {
     animation: shake 0.1s linear 10;
 }
+
+@keyframes shake {
+    
+}
